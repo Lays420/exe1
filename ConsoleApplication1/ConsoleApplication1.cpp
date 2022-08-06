@@ -18,19 +18,19 @@ int main()
 label1:
 	cout << "Wybierz jedną z opcji\n";
 	Sleep(250);
-	cout << "[1] Dodawanie\n";
+	cout << "[1] Dodawanie(+)\n";
 	Sleep(250);
-	cout << "[2] Odejmowanie\n";
+	cout << "[2] Odejmowanie(-)\n";
 	Sleep(250);
-	cout << "[3] Mnożenie\n";
+	cout << "[3] Mnożenie\n(*)";
 	Sleep(250);
-	cout << "[4] Dzielenie\n";
+	cout << "[4] Dzielenie\n(/)";
 	Sleep(250);
-	cout << "[5] Potęga\n";
+	cout << "[5] Potęga\n(pow)";
 	Sleep(250);
-	cout << "[6] Pierwiastek\n";
+	cout << "[6] Pierwiastek\n(sqrt)";
 	Sleep(250);
-	cout << "[7] Silnia\n";
+	cout << "[7] Silnia\n(!)";
 	Sleep(250);
 	cout << "[8] Wyczyść ekran\n";
 	Sleep(250);
