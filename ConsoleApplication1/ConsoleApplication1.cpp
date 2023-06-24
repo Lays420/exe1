@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <cmath>
+#ubclude <ncurses>
 #include <stdio.h>
 #include <windows.h>
 #include <stdlib.h>
